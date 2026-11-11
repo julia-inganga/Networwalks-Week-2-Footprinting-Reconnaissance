@@ -75,4 +75,4 @@ This project is intended for educational purposes and cybersecurity skills devel
 
 ## Project Report
 
-[View the complete NetworkWalks Week 2 Report](W2-PM-FINAL%20-%20Report%20v2.pdf)
+[View the complete NetworkWalks Week 2 Report](https://github.com/julia-inganga/Networwalks-Week-2-Footprinting-Reconnaissance/blob/main/NetworkWalks-Week-2-Footprinting-Reconnaissance.pdf)
