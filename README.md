@@ -73,14 +73,4 @@ All activities were conducted within the authorized educational scope described 
 
 This project is intended for educational purposes and cybersecurity skills development. Unauthorized scanning or access to systems is not permitted.
 
-## Author
 
-**Julia A. Inganga**
-
-Cybersecurity Program – NetworkWalks
-
-**Batch:** B084
-
-**Project:** Week 2 – Footprinting & Network Scanning
-
-[LinkedIn Profile](https://www.linkedin.com/in/julia-inganga/)
