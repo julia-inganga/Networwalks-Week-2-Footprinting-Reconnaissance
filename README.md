@@ -73,6 +73,4 @@ All activities were conducted within the authorized educational scope described 
 
 This project is intended for educational purposes and cybersecurity skills development. Unauthorized scanning or access to systems is not permitted.
 
-## Project Report
-
-[View the complete NetworkWalks Week 2 Report](./W2-PM-FINAL-Report%20v2.docx)
+[View the complete NetworkWalks Week 2 Report](./W2-PM-FINAL%20-%20Report%20v2.docx)
